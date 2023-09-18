@@ -6,15 +6,15 @@ package com.liu.day1.p337;
  * @date: 2023/9/18 10:05
  * @version 1.0
  */
-public class Main {
-    public static void main(String[] args) {
+public class Solve {
+    public int getValue() {
         TreeNode treeNode = new TreeNode(0);
         int[] rootValue = dfs(treeNode);
-        int result = Math.max(rootValue[0], rootValue[1]);
+        return Math.max(rootValue[0], rootValue[1]);
     }
 
     // 从叶子节点推到根节点
-    public static int[] dfs(TreeNode node) {
+    public int[] dfs(TreeNode node) {
         if (node == null) {
             return new int[]{0, 0};
         }

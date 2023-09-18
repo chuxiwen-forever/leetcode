@@ -7,14 +7,9 @@ package com.liu.day1.p160;
  * @version 1.0
  */
 
-public class Main {
-    public static void main(String[] args) {
-        ListNode a = new ListNode(1);
-        ListNode b = new ListNode(1);
-        ListNode intersectionNode = getIntersectionNode(a, b);
-    }
+public class Solve {
 
-    public static ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
 
         if (headA == null || headB == null) return null;
 
