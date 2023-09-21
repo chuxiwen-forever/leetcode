@@ -2,7 +2,7 @@ package com.liu.day3.lcp6;
 
 /***
  * @description: leetcode lcp6 拿硬币
- * @auther: Liu.
+ * @auther: chuxiwen
  * @date: 2023/9/20 16:13
  * @version 1.0
  */

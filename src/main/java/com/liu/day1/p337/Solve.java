@@ -2,7 +2,7 @@ package com.liu.day1.p337;
 
 /***
  * @description: leetcode 337. 打家劫舍 III
- * @auther: Liu.
+ * @auther: chuxiwen
  * @date: 2023/9/18 10:05
  * @version 1.0
  */

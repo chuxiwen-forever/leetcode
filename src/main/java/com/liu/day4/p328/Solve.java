@@ -2,7 +2,7 @@ package com.liu.day4.p328;
 
 /***
  * @description: leetcode p328 奇偶链表
- * @auther: Liu.
+ * @auther: chuxiwen
  * @date: 2023/9/21 16:19
  * @version 1.0
  */

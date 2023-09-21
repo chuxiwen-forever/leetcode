@@ -2,7 +2,7 @@ package com.liu.day1.p206;
 
 /***
  * @description: p206 反转链表
- * @auther: Liu.
+ * @auther: chuxiwen
  * @date: 2023/9/18 15:21
  * @version 1.0
  */

@@ -2,7 +2,7 @@ package com.liu.day3.p24;
 
 /***
  * @description:
- * @auther: Liu.
+ * @auther: chuxiwen
  * @date: 2023/9/20 16:31
  * @version 1.0
  */

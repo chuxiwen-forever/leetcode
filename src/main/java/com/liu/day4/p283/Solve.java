@@ -2,7 +2,7 @@ package com.liu.day4.p283;
 
 /***
  * @description: leetcode p283 移动零
- * @auther: Liu.
+ * @auther: chuxiwen
  * @date: 2023/9/21 16:36
  * @version 1.0
  */

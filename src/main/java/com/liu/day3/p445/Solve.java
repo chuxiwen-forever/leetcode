@@ -7,7 +7,7 @@ import java.util.Vector;
 
 /***
  * @description: leetcode p445 两数相加 2
- * @auther: Liu.
+ * @auther: chuxiwen
  * @date: 2023/9/20 17:05
  * @version 1.0
  */

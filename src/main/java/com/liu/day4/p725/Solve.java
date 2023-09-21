@@ -5,7 +5,7 @@ import java.util.List;
 
 /***
  * @description: leetcode p725 分隔链表
- * @auther: Liu.
+ * @auther: chuxiwen
  * @date: 2023/9/21 12:31
  * @version 1.0
  */

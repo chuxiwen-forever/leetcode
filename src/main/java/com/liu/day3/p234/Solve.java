@@ -5,7 +5,7 @@ import java.util.List;
 
 /***
  * @description: leetcode p234 回文链表
- * @auther: Liu.
+ * @auther: chuxiwen
  * @date: 2023/9/20 18:08
  * @version 1.0
  */

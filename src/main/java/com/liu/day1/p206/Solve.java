@@ -5,7 +5,7 @@ import java.util.List;
 
 /***
  * @description: leetcode p206 反转链表
- * @auther: Liu.
+ * @auther: chuxiwen
  * @date: 2023/9/18 15:22
  * @version 1.0
  */

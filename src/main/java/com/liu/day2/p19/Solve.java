@@ -4,7 +4,7 @@ import java.util.Stack;
 
 /***
  * @description: leetcode p19 删除倒数第数个链表的数据
- * @auther: Liu.
+ * @auther: chuxiwen
  * @date: 2023/9/19 15:56
  * @version 1.0
  */

@@ -2,7 +2,7 @@ package com.liu.day2.p21;
 
 /***
  * @description: leetcode p21 合并两个有序链表
- * @auther: Liu.
+ * @auther: chuxiwen
  * @date: 2023/9/19 14:53
  * @version 1.0
  */

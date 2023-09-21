@@ -2,7 +2,7 @@ package com.liu.day1.p160;
 
 /***
  * @description: leetcode p160 相交链表
- * @auther: Liu.
+ * @auther: chuxiwen
  * @date: 2023/9/18 14:58
  * @version 1.0
  */

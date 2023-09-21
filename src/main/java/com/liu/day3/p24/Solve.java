@@ -2,7 +2,7 @@ package com.liu.day3.p24;
 
 /***
  * @description: leetcode p24 两两交换链表中的节点
- * @auther: Liu.
+ * @auther: chuxiwen
  * @date: 2023/9/20 16:30
  * @version 1.0
  */

@@ -2,7 +2,7 @@ package com.liu.day4.p79;
 
 /***
  * @description: leetcode p79 单词搜索
- * @auther: Liu.
+ * @auther: chuxiwen
  * @date: 2023/9/21 11:24
  * @version 1.0
  */

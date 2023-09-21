@@ -4,7 +4,7 @@ import java.util.List;
 
 /***
  * @description: leetcode p841 钥匙和房间
- * @auther: Liu.
+ * @auther: chuxiwen
  * @date: 2023/9/20 15:46
  * @version 1.0
  */
