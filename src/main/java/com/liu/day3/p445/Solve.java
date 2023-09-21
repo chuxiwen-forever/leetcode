@@ -3,6 +3,7 @@ package com.liu.day3.p445;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
+import java.util.Vector;
 
 /***
  * @description: leetcode p445 两数相加 2
