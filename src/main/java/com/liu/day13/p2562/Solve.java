@@ -2,7 +2,7 @@ package com.liu.day13.p2562;
 
 
 /***
- * @description: <a href="https://leetcode.cn/problems/find-the-array-concatenation-value/">leetcode2562 找出数组的串联值</a>。
+ * @description: <a href="https://leetcode.cn/problems/find-the-array-concatenation-value/">leetcode p2562 找出数组的串联值</a>。
  * @auther: chuxiwen
  * @date: 2023/10/12 09:13
  * @version 1.0
