@@ -6,7 +6,7 @@ import java.util.Stack;
 /***
  * @description: <a href="https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/">leetcode LCR 147 最小栈</a>。
  * @auther: chuxiwen
- * @date: 2023/10/11 17.32
+ * @date: 2023/10/11 17:32
  * @version 1.0
  */
 
