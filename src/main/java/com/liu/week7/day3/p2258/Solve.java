@@ -11,7 +11,6 @@ import java.util.Queue;
  * @version 1.0
  */
 
-
 public class Solve {
 
     private static final int INF = 1000000000;
