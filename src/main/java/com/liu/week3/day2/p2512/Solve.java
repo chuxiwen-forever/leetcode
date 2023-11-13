@@ -1,4 +1,4 @@
-package com.liu.day12.p2512;
+package com.liu.week3.day2.p2512;
 
 import java.util.*;
 
@@ -9,7 +9,7 @@ import java.util.*;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     public TreeMap<Integer, PriorityQueue<Integer>> student = new TreeMap<>();
 

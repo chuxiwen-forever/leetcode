@@ -10,7 +10,7 @@ import java.util.Map;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     // 哈希表 空间：O(n) 时间：O(n)
     public int[] singleNumber(int[] nums) {

@@ -8,7 +8,7 @@ import java.util.PriorityQueue;
  * @date: 2023/10/17 13:34
  * @version 1.0
  */
-public class Solve {
+class Solve {
 
     // 优先队列取最大数
     public long maxKelements(int[] nums, int k) {

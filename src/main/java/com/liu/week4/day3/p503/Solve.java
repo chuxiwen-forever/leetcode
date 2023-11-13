@@ -11,7 +11,7 @@ import java.util.Stack;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     public int[] nextGreaterElements(int[] nums) {
         int n = nums.length;

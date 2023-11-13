@@ -8,7 +8,7 @@ package com.liu.week3.day3.p2562;
  */
 
 
-public class Solve {
+class Solve {
     // 特判数组为奇数情况
     public long findTheArrayConcVal(int[] nums) {
         long ans = 0;

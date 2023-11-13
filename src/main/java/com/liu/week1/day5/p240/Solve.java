@@ -7,7 +7,7 @@ package com.liu.week1.day5.p240;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     // 暴力查找 n^2
     public boolean searchMatrix(int[][] matrix, int target) {

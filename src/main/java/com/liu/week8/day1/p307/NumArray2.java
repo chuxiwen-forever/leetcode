@@ -8,7 +8,7 @@ package com.liu.week8.day1.p307;
  */
 
 // 树状数组
-public class NumArray2 {
+class NumArray2 {
 
     private final int[] tree;
     private final int[] nums;

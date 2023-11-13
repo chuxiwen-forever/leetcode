@@ -7,7 +7,7 @@ package com.liu.week2.day3.p121;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     // 暴力解法 (超时)
     public int maxProfit(int[] prices) {

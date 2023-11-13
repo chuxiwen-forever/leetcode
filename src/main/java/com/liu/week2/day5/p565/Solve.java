@@ -7,7 +7,7 @@ package com.liu.week2.day5.p565;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
     // 使用有向图，因为数组中没有重复的数值，所以不会存在重复的路线，vis数组可以外放
     public int arrayNesting(int[] nums) {
         int max = 0, n = nums.length;

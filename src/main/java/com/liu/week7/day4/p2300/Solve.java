@@ -9,7 +9,7 @@ import java.util.Arrays;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
     public int[] successfulPairs(int[] spells, int[] potions, long success) {
         int n = spells.length;
         Arrays.sort(potions);

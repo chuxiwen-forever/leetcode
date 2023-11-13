@@ -7,7 +7,7 @@ package com.liu.week2.day5.p769;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
     // 拍好序后的数组： [0, 1, 2, 3, 4, 5]
     // 不管排序前的数组多么混乱，最后一定是回到他应该去的地方
     // 所以分组需要去到他指定的下标，只要可以回自己的位置就可以分组

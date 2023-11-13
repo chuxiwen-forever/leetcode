@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     // 切割+倒序拼接
     public String reverseMessage(String message) {

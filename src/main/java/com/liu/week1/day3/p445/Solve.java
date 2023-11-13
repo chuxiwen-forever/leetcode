@@ -11,7 +11,7 @@ import java.util.Stack;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     // 也可以使用栈存储数据 可以节省很多内存 也不需要考虑数组越界
     public ListNode addTwoNumbers1(ListNode l1, ListNode l2) {

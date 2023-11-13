@@ -6,7 +6,7 @@ package com.liu.week1.day1.p337;
  * @date: 2023/9/18 10:05
  * @version 1.0
  */
-public class Solve {
+class Solve {
     public int getValue() {
         TreeNode treeNode = new TreeNode(0);
         int[] rootValue = dfs(treeNode);

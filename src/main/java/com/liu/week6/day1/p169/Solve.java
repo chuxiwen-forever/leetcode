@@ -11,7 +11,7 @@ import java.util.Map;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     // 哈希表
     public int majorityElement(int[] nums) {

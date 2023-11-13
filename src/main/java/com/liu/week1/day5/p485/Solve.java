@@ -7,7 +7,7 @@ package com.liu.week1.day5.p485;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
     public int findMaxConsecutiveOnes(int[] nums) {
         int res = 0;
         int ans = 0;

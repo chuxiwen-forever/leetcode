@@ -12,7 +12,7 @@ import java.util.PriorityQueue;
  */
 
 // 使用两个优先队列
-public class StockPrice2 {
+class StockPrice2 {
 
     public int lastTime = 0;
     public Map<Integer, Integer> timeMap = new HashMap<>();

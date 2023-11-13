@@ -12,7 +12,7 @@ import java.util.Map;
  */
 
 
-public class Solve {
+class Solve {
 
     public int splitNum(int num) {
         String string = String.valueOf(num);

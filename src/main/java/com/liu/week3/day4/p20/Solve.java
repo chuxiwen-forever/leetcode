@@ -9,7 +9,7 @@ import java.util.Stack;
  * @date: 2023/10/13 10:10
  * @version 1.0
  */
-public class Solve {
+class Solve {
     public boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
         for (char c : s.toCharArray()) {

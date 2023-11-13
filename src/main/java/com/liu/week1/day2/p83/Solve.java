@@ -7,7 +7,7 @@ package com.liu.week1.day2.p83;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     // 在原来的链表上进行操作
     public ListNode deleteDuplicates1(ListNode head) {

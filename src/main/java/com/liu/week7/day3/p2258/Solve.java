@@ -11,7 +11,7 @@ import java.util.Queue;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     private static final int INF = 1000000000;
     private static final int[][] t = new int[][]{{1, 0}, {-1, 0}, {0, 1}, {0, -1}};

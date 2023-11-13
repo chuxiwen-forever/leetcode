@@ -8,7 +8,7 @@ import java.util.Stack;
  * @date: 2023/10/9 16:18
  * @version 1.0
  */
-public class MyQueue {
+class MyQueue {
 
     public Stack<Integer> inStack = new Stack<>();
     public Stack<Integer> outStack = new Stack<>();

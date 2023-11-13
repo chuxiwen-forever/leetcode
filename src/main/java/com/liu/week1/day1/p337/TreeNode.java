@@ -1,6 +1,6 @@
 package com.liu.week1.day1.p337;
 
-public class TreeNode {
+class TreeNode {
     int val;
     TreeNode left;
     TreeNode right;

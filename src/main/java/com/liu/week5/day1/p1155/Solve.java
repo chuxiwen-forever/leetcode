@@ -8,7 +8,7 @@ package com.liu.week5.day1.p1155;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     private static final int MOD = 1000000007;
 

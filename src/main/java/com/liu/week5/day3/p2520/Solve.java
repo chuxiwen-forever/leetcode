@@ -7,7 +7,7 @@ package com.liu.week5.day3.p2520;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     public int countDigits(int num) {
         // 先找到10以内可以整除num的数, 进行记录

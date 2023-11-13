@@ -7,7 +7,7 @@ package com.liu.week4.day5.p2678;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     public int countSeniors(String[] details) {
         int cnt = 0;

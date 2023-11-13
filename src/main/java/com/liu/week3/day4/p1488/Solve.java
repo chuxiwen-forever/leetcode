@@ -8,7 +8,7 @@ import java.util.*;
  * @date: 2023/10/13 09:03
  * @version 1.0
  */
-public class Solve {
+class Solve {
     // 将每一次晴天存起来，用到最需要晴天的时候 (贪心)
     public int[] avoidFlood(int[] rains) {
         int n = rains.length;

@@ -7,7 +7,7 @@ package com.liu.week1.day4.p79;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
     public boolean exist(char[][] board, String word) {
         int m = board.length, n = board[0].length;
         boolean[][] st = new boolean[m][n];

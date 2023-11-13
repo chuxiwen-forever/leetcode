@@ -12,7 +12,7 @@ import java.util.TreeMap;
  */
 
 // 使用有序数组进行处理
-public class StockPrice1 {
+class StockPrice1 {
 
     public Map<Integer, Integer> timeMap = new HashMap<>();
     public TreeMap<Integer, Integer> prices = new TreeMap<>();

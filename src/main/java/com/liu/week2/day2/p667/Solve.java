@@ -7,7 +7,7 @@ package com.liu.week2.day2.p667;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     /**
      * 数学问题，交换两个数可以添加两个k

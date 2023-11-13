@@ -7,7 +7,7 @@ package com.liu.week4.day4.p2525;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
     public String categorizeBox(int length, int width, int height, int mass) {
         // 体积判断
         boolean vCheck = (long) length * width * height >= 1000000000L;

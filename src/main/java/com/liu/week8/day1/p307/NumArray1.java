@@ -8,7 +8,7 @@ package com.liu.week8.day1.p307;
  */
 
 // 线段数解决
-public class NumArray1 {
+class NumArray1 {
 
     private final int[] segmentTree;
     private final int n;

@@ -10,7 +10,7 @@ import java.util.Queue;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
     // 使用队列，一层一层遍历 空间O(n)
     public Node connect(Node root) {
         if (root == null) return null;

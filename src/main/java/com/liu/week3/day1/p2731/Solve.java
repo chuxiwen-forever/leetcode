@@ -10,7 +10,7 @@ import java.util.Arrays;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     public static final int MOD = 1000000007;
 

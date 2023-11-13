@@ -12,7 +12,7 @@ import java.util.Map;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     // 使用数据进行模拟
     public int countPoints(String rings) {

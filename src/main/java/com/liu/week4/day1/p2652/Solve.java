@@ -6,7 +6,7 @@ package com.liu.week4.day1.p2652;
  * @date: 2023/10/17 13:34
  * @version 1.0
  */
-public class Solve {
+class Solve {
 
     // 遍历
     public int sumOfMultiples(int n) {

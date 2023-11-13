@@ -10,7 +10,7 @@ import java.util.List;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
     // 将整个链表数据存放到数组中，然后倒着存一遍
     public ListNode reverseList1(ListNode head) {
         ListNode pHead = head;

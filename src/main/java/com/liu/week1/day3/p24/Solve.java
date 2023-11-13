@@ -7,7 +7,7 @@ package com.liu.week1.day3.p24;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
     //     1        2       3
     // cur -> start -> end -> next 交换 1,2,3
     public ListNode swapPairs(ListNode head) {

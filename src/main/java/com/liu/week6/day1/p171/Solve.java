@@ -8,7 +8,7 @@ package com.liu.week6.day1.p171;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     public int titleToNumber(String columnTitle) {
         int ans = 0;

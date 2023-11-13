@@ -10,7 +10,7 @@ import java.util.Map;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     // Map记录第一次出现的位置，后面的位置减去当前的位置
     public int maxLengthBetweenEqualCharacters(String s) {

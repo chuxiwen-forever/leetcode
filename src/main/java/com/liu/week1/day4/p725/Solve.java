@@ -10,7 +10,7 @@ import java.util.List;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     // 直接操作链表，省空间
     public ListNode[] splitListToParts1(ListNode head, int k) {

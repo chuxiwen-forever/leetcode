@@ -9,7 +9,7 @@ import java.util.Set;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
     Set<Character> set = Set.of('a', 'e', 'i', 'o', 'u');
 
     // 遍历

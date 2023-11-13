@@ -11,7 +11,7 @@ import java.util.Map;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     // 将所有两两相乘，得到的数存入map中，遍历map取value，求C(2n)组合数，相加得到结果
     public int tupleSameProduct(int[] nums) {

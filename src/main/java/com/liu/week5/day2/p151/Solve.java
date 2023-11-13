@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     public String reverseWords(String s) {
         String[] strings = s.split(" ");

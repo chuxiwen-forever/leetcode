@@ -9,7 +9,7 @@ import java.util.Stack;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
     // 进阶，遍历一次，遍历一次，但是需要开额外的空间
     public ListNode removeNthFromEnd1(ListNode head, int n) {
         ListNode res = new ListNode(0, head), save = res;

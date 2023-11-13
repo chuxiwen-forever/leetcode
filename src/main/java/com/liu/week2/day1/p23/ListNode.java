@@ -7,7 +7,7 @@ package com.liu.week2.day1.p23;
  * @version 1.0
  */
 
-public class ListNode {
+class ListNode {
     int val;
     ListNode next;
 

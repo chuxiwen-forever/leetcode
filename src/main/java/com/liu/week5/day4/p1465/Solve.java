@@ -9,7 +9,7 @@ import java.util.Arrays;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     public int maxArea(int h, int w, int[] horizontalCuts, int[] verticalCuts) {
         Arrays.sort(horizontalCuts);

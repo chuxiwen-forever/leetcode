@@ -1,4 +1,4 @@
-package com.liu.day25.p28;
+package com.liu.week5.day5.p28;
 
 
 /***
@@ -8,7 +8,7 @@ package com.liu.day25.p28;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     // 此题的最优解是kmp算法，但是不会，就暴力了
     public int strStr(String haystack, String needle) {

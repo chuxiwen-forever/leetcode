@@ -10,7 +10,7 @@ import java.util.Stack;
  * @version 1.0
  */
 
-public class MinStack {
+class MinStack {
 
     public PriorityQueue<Integer> queue = new PriorityQueue<>();
     public Stack<Integer> stack = new Stack<>();

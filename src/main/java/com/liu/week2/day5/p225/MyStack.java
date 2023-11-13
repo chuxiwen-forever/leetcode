@@ -10,7 +10,7 @@ import java.util.Queue;
  * @version 1.0
  */
 
-public class MyStack {
+class MyStack {
     public Queue<Integer> q1 = new LinkedList<>();
     public Queue<Integer> q2 = new LinkedList<>();
 

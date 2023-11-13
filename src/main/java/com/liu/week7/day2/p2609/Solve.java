@@ -7,7 +7,7 @@ package com.liu.week7.day2.p2609;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     public int findTheLongestBalancedSubstring(String s) {
         int[] count = new int[2];

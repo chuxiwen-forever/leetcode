@@ -1,4 +1,4 @@
-package com.liu.day25.p275;
+package com.liu.week5.day5.p275;
 
 /***
  * @description: <a href="https://leetcode.cn/problems/h-index-ii/">leetcode p275 H 指数 II</a>。
@@ -7,7 +7,7 @@ package com.liu.day25.p275;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     public int hIndex(int[] citations) {
         int n = citations.length, left = 0, right = n - 1;

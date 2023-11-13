@@ -10,7 +10,7 @@ import java.util.Arrays;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     public boolean closeStrings(String word1, String word2) {
         int[] i1 = new int[26];

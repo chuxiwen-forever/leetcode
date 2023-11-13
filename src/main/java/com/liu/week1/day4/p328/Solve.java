@@ -7,7 +7,7 @@ package com.liu.week1.day4.p328;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     // 将奇链表结合起来，将偶链表结合起来，记录一下偶链表的头节点，然后将奇节点的尾指针指向偶节点的头指针
     public ListNode oddEvenList(ListNode head) {

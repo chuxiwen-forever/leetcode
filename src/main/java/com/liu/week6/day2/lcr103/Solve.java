@@ -10,7 +10,7 @@ import java.util.Arrays;
  */
 
 
-public class Solve {
+class Solve {
 
     // 0 - 1 背包
     public int coinChange(int[] coins, int amount) {

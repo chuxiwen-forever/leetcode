@@ -7,7 +7,7 @@ package com.liu.week6.day1.p168;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     public String convertToTitle(int columnNumber) {
         StringBuilder sb = new StringBuilder();

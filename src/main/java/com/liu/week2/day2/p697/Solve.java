@@ -10,7 +10,7 @@ import java.util.Map;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
     public int findShortestSubArray(int[] nums) {
         Map<Integer, D> ds = new HashMap<>();
         int n = nums.length;

@@ -7,7 +7,7 @@ package com.liu.week1.day3.lcp6;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     // 每次都按两个的拿，最后一次拿一个，轮巡把每一堆拿完
     public int minCount(int[] coins) {

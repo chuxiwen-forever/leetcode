@@ -7,7 +7,7 @@ package com.liu.week1.day4.p566;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
     public int[][] matrixReshape(int[][] mat, int r, int c) {
         int m = mat.length;
         int n = mat[0].length;

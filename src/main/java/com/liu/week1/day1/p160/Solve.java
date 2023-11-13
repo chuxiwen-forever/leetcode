@@ -7,7 +7,7 @@ package com.liu.week1.day1.p160;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
 

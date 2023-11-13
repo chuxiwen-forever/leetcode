@@ -7,7 +7,7 @@ package com.liu.week2.day3.p122;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
     // 动态规划，状态为持有股票，持有现金，最后的状态一定是持有现金
     public int maxProfit(int[] prices) {
         int n = prices.length;

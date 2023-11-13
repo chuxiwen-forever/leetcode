@@ -7,7 +7,7 @@ package com.liu.week1.day2.p21;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     // 将两个链表打碎，重新拼接
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {

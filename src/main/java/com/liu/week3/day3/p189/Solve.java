@@ -8,7 +8,7 @@ package com.liu.week3.day3.p189;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
     // 空间负责度 O(n) 新开一个数组
     public void rotate(int[] nums, int k) {
         int n = nums.length;

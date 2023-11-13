@@ -12,7 +12,7 @@ import java.util.PriorityQueue;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     // 暴力处理方法，存到一个数组中，排序找到
     public int kthSmallest(int[][] matrix, int k) {

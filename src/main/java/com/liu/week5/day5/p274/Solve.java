@@ -1,4 +1,4 @@
-package com.liu.day25.p274;
+package com.liu.week5.day5.p274;
 
 
 /***
@@ -8,7 +8,7 @@ package com.liu.day25.p274;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     public int hIndex(int[] citations) {
         int n = citations.length;

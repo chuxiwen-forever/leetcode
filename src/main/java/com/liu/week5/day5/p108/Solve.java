@@ -1,4 +1,4 @@
-package com.liu.day25.p108;
+package com.liu.week5.day5.p108;
 
 
 /***
@@ -8,7 +8,7 @@ package com.liu.day25.p108;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
     public TreeNode sortedArrayToBST(int[] nums) {
         return dfs(nums, 0, nums.length - 1);
     }

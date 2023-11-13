@@ -7,7 +7,7 @@ package com.liu.week1.day5.p2591;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     public int distMoney(int money, int children) {
         // 如果钱比人还少，肯定没有分配方案，因为每人必须一块钱

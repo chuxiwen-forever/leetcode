@@ -7,7 +7,7 @@ package com.liu.week1.day4.p283;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
     // 暴力做法
     public void moveZeroes(int[] nums) {
         int length = nums.length;

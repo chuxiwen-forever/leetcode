@@ -1,4 +1,4 @@
-package com.liu.day25.p110;
+package com.liu.week5.day5.p110;
 
 
 /***
@@ -9,7 +9,7 @@ package com.liu.day25.p110;
  */
 
 
-public class Solve {
+class Solve {
 
     // 自下而上的判断
     public boolean isBalanced(TreeNode root) {

@@ -8,7 +8,7 @@ package com.liu.week5.day2.p2698;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     // 遍历所有可能，然后进行dfs遍历所有可能
     public int punishmentNumber(int n) {

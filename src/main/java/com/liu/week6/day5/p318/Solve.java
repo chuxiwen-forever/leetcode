@@ -12,7 +12,7 @@ import java.util.Set;
  */
 
 
-public class Solve {
+class Solve {
 
     // 位运算表示每一位数据
     public int maxProduct(String[] words) {

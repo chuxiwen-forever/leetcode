@@ -7,7 +7,7 @@ package com.liu.week2.day2.p766;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     public boolean isToeplitzMatrix(int[][] matrix) {
         int m = matrix.length, n = matrix[0].length;

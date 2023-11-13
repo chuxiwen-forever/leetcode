@@ -8,7 +8,7 @@ package com.liu.week4.day5.p848;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     private final char[] chars = new char[]{
             'a', 'b', 'c', 'd', 'e', 'f', 'g',

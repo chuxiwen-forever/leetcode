@@ -10,7 +10,7 @@ import java.util.List;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     // 存到数组中 进行处理
     public boolean isPalindrome(ListNode head) {

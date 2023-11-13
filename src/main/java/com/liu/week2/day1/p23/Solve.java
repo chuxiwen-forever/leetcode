@@ -9,7 +9,7 @@ import java.util.PriorityQueue;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     // 最优解 优先队列
     public ListNode mergeKLists(ListNode[] lists) {
