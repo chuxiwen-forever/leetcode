@@ -7,7 +7,6 @@ package com.liu.week8.day1.p111;
  * @version 1.0
  */
 
-
 class Solve {
     public int minDepth(TreeNode root) {
         if (root == null) return 0;
