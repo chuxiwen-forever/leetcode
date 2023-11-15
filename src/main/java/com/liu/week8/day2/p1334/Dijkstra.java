@@ -10,7 +10,7 @@ import java.util.Arrays;
  */
 
 // 使用Dijkstra算法
-public class Dijkstra {
+class Dijkstra {
 
     private static final int INF = 10000000;
 

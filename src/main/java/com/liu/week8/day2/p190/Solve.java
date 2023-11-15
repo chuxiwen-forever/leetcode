@@ -7,7 +7,7 @@ package com.liu.week8.day2.p190;
  * @date: 2023/11/14 10:59
  * @version 1.0
  */
-public class Solve {
+class Solve {
 
     public int reverseBits(int n) {
         n = ((n & 0xAAAAAAAA) >>> 1) | ((n & 0x55555555) << 1);

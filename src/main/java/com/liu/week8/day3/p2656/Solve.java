@@ -7,7 +7,7 @@ package com.liu.week8.day3.p2656;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     public int maximizeSum(int[] nums, int k) {
         int max = 0;
