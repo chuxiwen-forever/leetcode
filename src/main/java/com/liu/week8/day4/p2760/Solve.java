@@ -7,7 +7,7 @@ package com.liu.week8.day4.p2760;
  * @version 1.0
  */
 
-public class Solve {
+class Solve {
 
     // 遍历
     public int longestAlternatingSubarray1(int[] nums, int threshold) {
