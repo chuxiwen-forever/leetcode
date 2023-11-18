@@ -7,7 +7,6 @@ package com.liu.week8.day6.p48;
  * @version 1.0
  */
 
-
 class Solve {
 
     // 找规律题
